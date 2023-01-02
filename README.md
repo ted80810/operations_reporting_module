@@ -27,3 +27,8 @@ For more info, keep an eye on the JupyterLite documentation:
 
 - How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
 - Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+
+
+# Binder Link
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ted80810/inventory_pdf_converter.git/HEAD)
