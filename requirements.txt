@@ -21,6 +21,7 @@ tabula-py
 numpy
 pandas 
 glob2
+openjdk
 jupyterlab-filesystem-access
 plotly>=5,<6
 theme-darcula
