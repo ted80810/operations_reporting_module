@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2023-01-18T00:35:20.621851Z",
+      "created": "2023-01-18T00:35:01.333729Z",
       "format": null,
-      "last_modified": "2023-01-18T00:34:06.653696Z",
+      "last_modified": "2023-01-18T00:33:36.393294Z",
       "mimetype": null,
       "name": "Operations_Reporting_Module.ipynb",
       "path": "Operations_Reporting_Module.ipynb",
@@ -14,20 +14,32 @@
     },
     {
       "content": null,
-      "created": "2023-01-18T00:35:20.621851Z",
+      "created": "2023-01-18T00:35:01.333729Z",
       "format": null,
-      "last_modified": "2023-01-18T00:35:18.901847Z",
+      "last_modified": "2023-01-18T00:34:58.253717Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
       "size": 1077,
       "type": "file",
       "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-01-18T00:35:01.337729Z",
+      "format": null,
+      "last_modified": "2023-01-18T00:33:36.393294Z",
+      "mimetype": null,
+      "name": "inventory_pdf_converter.ipynb",
+      "path": "inventory_pdf_converter.ipynb",
+      "size": 4573,
+      "type": "notebook",
+      "writable": true
     }
   ],
-  "created": "2023-01-18T00:35:20.621851Z",
+  "created": "2023-01-18T00:35:01.337729Z",
   "format": "json",
-  "last_modified": "2023-01-18T00:35:20.621851Z",
+  "last_modified": "2023-01-18T00:35:01.337729Z",
   "mimetype": null,
   "name": "",
   "path": "",
