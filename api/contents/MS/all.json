@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-01-18T00:37:26.369755Z",
+      "format": null,
+      "last_modified": "2023-01-18T00:37:26.369755Z",
+      "mimetype": null,
+      "name": "InventoryStat",
+      "path": "MS/InventoryStat",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-01-18T00:37:26.365755Z",
+      "format": null,
+      "last_modified": "2023-01-18T00:37:26.365755Z",
+      "mimetype": null,
+      "name": "DailyExpense",
+      "path": "MS/DailyExpense",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-01-18T00:37:26.369755Z",
+      "format": null,
+      "last_modified": "2023-01-18T00:37:26.369755Z",
+      "mimetype": null,
+      "name": "Non-ProductSales",
+      "path": "MS/Non-ProductSales",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2023-01-18T00:37:26.369755Z",
+      "format": null,
+      "last_modified": "2023-01-18T00:37:26.369755Z",
+      "mimetype": null,
+      "name": "QualityCost",
+      "path": "MS/QualityCost",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2023-01-18T00:37:26.369755Z",
+  "format": "json",
+  "last_modified": "2023-01-18T00:37:26.369755Z",
+  "mimetype": null,
+  "name": "MS",
+  "path": "MS",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
