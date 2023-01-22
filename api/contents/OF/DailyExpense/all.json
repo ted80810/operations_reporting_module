@@ -4,11 +4,11 @@
       "content": null,
       "created": "2023-01-22T20:25:16.093547Z",
       "format": null,
-      "last_modified": "2023-01-22T20:23:34.165129Z",
+      "last_modified": "2023-01-22T20:23:34.169129Z",
       "mimetype": "application/pdf",
-      "name": "MS_Non-Product_August 2022.pdf",
-      "path": "MS/Non-ProductSales/MS_Non-Product_August 2022.pdf",
-      "size": 66405,
+      "name": "MS_DailyExpense_Aug_2022.pdf",
+      "path": "OF/DailyExpense/MS_DailyExpense_Aug_2022.pdf",
+      "size": 38315,
       "type": "file",
       "writable": true
     }
@@ -17,8 +17,8 @@
   "format": "json",
   "last_modified": "2023-01-22T20:25:16.093547Z",
   "mimetype": null,
-  "name": "Non-ProductSales",
-  "path": "MS/Non-ProductSales",
+  "name": "DailyExpense",
+  "path": "OF/DailyExpense",
   "size": null,
   "type": "directory",
   "writable": true
