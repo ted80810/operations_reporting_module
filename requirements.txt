@@ -108,7 +108,6 @@ stack_data
 tabula-py>=2.2.0
 terminado>=0.15.0
 tinycss2>=1.1.1
-tk>=8.6.12
 theme-darcula
 tomli>=2.0.1
 tornado>=6.2
