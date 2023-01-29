@@ -2,8 +2,9 @@
   "jupyter-config-data": {
     "appName": "JupyterLite",
     "appUrl": "./lab",
-    "appVersion": "0.1.0-beta.10",
+    "appVersion": "0.1.0-beta.18",
     "baseUrl": "./",
+    "defaultKernelName": "python",
     "faviconUrl": "./lab/favicon.ico",
     "federated_extensions": [
       {
@@ -29,22 +30,15 @@
       {
         "extension": "./extension",
         "liteExtension": true,
-        "load": "static/remoteEntry.4ba93726087006d2f61b.js",
+        "load": "static/remoteEntry.9117113815033289c4d5.js",
         "name": "@jupyterlite/p5-kernel-extension",
         "style": "./style"
       },
       {
         "extension": "./extension",
         "liteExtension": true,
-        "load": "static/remoteEntry.f69e84c5aaec83c179ca.js",
+        "load": "static/remoteEntry.e78d78c300edd8e07311.js",
         "name": "@jupyterlite/xeus-lua-kernel",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": true,
-        "load": "static/remoteEntry.960d5d0f875a651e597f.js",
-        "name": "@jupyterlite/xeus-sqlite-kernel",
         "style": "./style"
       },
       {
