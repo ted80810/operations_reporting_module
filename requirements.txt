@@ -96,7 +96,6 @@ pyparsing>=3.0.9
 pypdf2>=2.11.1
 pyrsistent>=0.18.1
 pysocks>=1.7.1
-python
 python-dateutil>=2.8.2
 python-fastjsonschema>=2.16.1
 python_abi
