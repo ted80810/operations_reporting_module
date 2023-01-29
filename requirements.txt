@@ -68,8 +68,6 @@ mistune
 nbclassic
 nbclient
 nbconvert
-nbconvert-core>=6.5.0
-nbconvert-pandoc>=6.5.0
 nbformat>=5.4.0
 ncurses>=6.3
 nest-asyncio>=1.5.5
