@@ -75,7 +75,6 @@ notebook-shim
 numexpr>=2.8.3
 numpy>=1.22.1
 openpyxl>=3.0.10
-openssl>=1.1.1s
 packaging>=21.3
 pandas>=1.4.3
 pandoc>=2.18
