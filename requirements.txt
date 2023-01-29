@@ -9,7 +9,6 @@ asttokens>=2.0.5
 attrs>=21.4.0
 babel>=2.10.3
 backcall
-backports
 backports.functools_lru_cache>=1.6.4
 beautifulsoup4>=4.11.1
 bqplot
