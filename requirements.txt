@@ -119,7 +119,6 @@ wcwidth
 webencodings
 websocket-client>=1.3.3
 wheel>=0.37.1
-xz>=5.2.5
 zeromq>=4.3.4
 zipp>=3.8.0
 zlib>=1.2.12
