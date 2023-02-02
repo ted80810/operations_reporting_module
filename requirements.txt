@@ -73,7 +73,7 @@ nest-asyncio>=1.5.5
 notebook>=6.4.12
 notebook-shim
 numexpr>=2.8.3
-numpy>=1.22.1
+numpy
 openpyxl>=3.0.10
 packaging>=21.3
 pandas
