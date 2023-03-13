@@ -75,7 +75,7 @@ notebook-shim
 numexpr>=2.8.3
 numpy
 openpyxl>=3.0.10
-openjdk
+install-jdk
 packaging>=21.3
 pandas
 pandoc
