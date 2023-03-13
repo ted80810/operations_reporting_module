@@ -114,7 +114,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.5a61eaf4adea42288d59.js",
+        "load": "static/remoteEntry.5cbfa1e4260a81a3d54b.js",
         "mimeExtension": "./mimeExtension",
         "name": "jupyterlab-plotly"
       },
