@@ -33,4 +33,5 @@ dependencies:
       - jupyterlite-xeus-lua==0.3.1
       - jupyterlite-xeus-wren==0.2.1
       - jupyterlite-xeus-sqlite==0.2.1
+      - tabula-py
       - theme-darcula
