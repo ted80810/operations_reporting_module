@@ -2,7 +2,7 @@
   "jupyter-config-data": {
     "appName": "JupyterLite",
     "appUrl": "./lab",
-    "appVersion": "0.1.0-beta.21",
+    "appVersion": "0.1.0-rc.0",
     "baseUrl": "./",
     "defaultKernelName": "python",
     "faviconUrl": "./lab/favicon.ico",
@@ -10,7 +10,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.ce7a1f06f226e01844ce.js",
+        "load": "static/remoteEntry.3fbe0e47321133b4e650.js",
         "name": "@jupyter-widgets/jupyterlab-manager"
       },
       {
@@ -30,7 +30,7 @@
       {
         "extension": "./extension",
         "liteExtension": true,
-        "load": "static/remoteEntry.881c4a7dc32240fa810b.js",
+        "load": "static/remoteEntry.aefc79022a1753a263bf.js",
         "name": "@jupyterlite/javascript-kernel-extension"
       },
       {
@@ -43,7 +43,7 @@
       {
         "extension": "./extension",
         "liteExtension": true,
-        "load": "static/remoteEntry.c825fba8c7254c146abf.js",
+        "load": "static/remoteEntry.9769e16943c1366c4972.js",
         "name": "@jupyterlite/pyodide-kernel-extension"
       },
       {
@@ -75,7 +75,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.99c828c2ee313756f7dc.js",
+        "load": "static/remoteEntry.ede4bc602b2c1bd1a931.js",
         "name": "bqplot"
       },
       {
@@ -126,7 +126,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.5cbfa1e4260a81a3d54b.js",
+        "load": "static/remoteEntry.14a31ea2a1e94779c174.js",
         "mimeExtension": "./mimeExtension",
         "name": "jupyterlab-plotly"
       },
@@ -425,7 +425,7 @@
     "litePluginSettings": {
       "@jupyterlite/pyodide-kernel-extension:kernel": {
         "pipliteUrls": [
-          "./extensions/@jupyterlite/pyodide-kernel-extension/static/pypi/all.json?sha256=09f59df845511f311e96acddbbcf90a80c518c79609f87a57b075fe86a338dc2"
+          "./extensions/@jupyterlite/pyodide-kernel-extension/static/pypi/all.json?sha256=dada95d1039a199bb4503c6652605f7815ea056b19f3c08a6e78a0c5739f19d4"
         ]
       }
     },
